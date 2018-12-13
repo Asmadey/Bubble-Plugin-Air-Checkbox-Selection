@@ -1,0 +1,11 @@
+{
+    "assets": {
+        "AAC": {
+            "name": "checkboxes.min.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1538721254264x386049213819205760/jquery.checkboxes-1.2.2.min.js"
+        }
+    },
+    "dependencies": {
+        "use_jquery": true
+    }
+}

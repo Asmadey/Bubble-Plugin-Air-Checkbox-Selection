@@ -1,0 +1,30 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "AirCheckboxSelection",
+    "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1538724805776x879804176976904300/194115-200.png",
+    "fields": {
+        "AAE": {
+            "caption": "ID attribute ",
+            "doc": "ID attribute of the repeating group",
+            "editor": "DynamicValue",
+            "name": "group_id",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "Assign an ID attribute to the Repeating Group and enter that same ID below.",
+            "editor": "Label",
+            "name": "info",
+            "rank": 0
+        }
+    },
+    "icon": "ion-android-checkbox",
+    "property_applications": {
+        "resizable": true
+    }
+}
